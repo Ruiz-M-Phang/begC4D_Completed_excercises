@@ -4,4 +4,4 @@
 
   - ex: means excercise.
   - ex01xx: means excercise of chapter 1.
-  - ec0101: means excercise 1 of chapter 1.
+  - ex0101: means excercise 1 of chapter 1.
