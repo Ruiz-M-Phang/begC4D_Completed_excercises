@@ -1,6 +1,6 @@
 # begC4D_Completed_excercises
 
- Here you will see which excercise I complited.
+ Here you will see which excercise I completed.
 
   - ex: means excercise.
   - ex01xx: means excercise of chapter 1.
